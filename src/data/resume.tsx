@@ -5,9 +5,9 @@ import { SiHtml5, SiCss3, SiReact, SiNextdotjs, SiTailwindcss, SiNodedotjs, SiPy
 export const DATA = {
   name: "Samuel lawal",
   initials: "SL",
-  url: "https://dillion.io",
-  location: "San Francisco, CA",
-  locationLink: "https://www.google.com/maps/place/ogun state",
+  url: "https://agent44.vercel.app",
+  location: "Ojo, lagos",
+  locationLink: "https://www.google.com/maps/place/lagos state",
   description:
     "Frontend Developer on the journey to becoming a Fullstack Engineer. I enjoy building products, learning new technologies, and turning ideas into solutions.",
   summary:
