@@ -56,7 +56,7 @@ export const DATA = {
       },
       Instagram: {
         name: "Instagram",
-        url: "https://www.instagram.com/",
+        url: "https://www.instagram.com/samuel_lawal_/",
         icon: Icons.instagram,
         navbar: true,
       },
@@ -91,7 +91,7 @@ export const DATA = {
       degree: "Bachelor's Degree of Computer Science (BCS)",
       logoUrl: "/LASU_LOGO.png",
       start: "2023",
-      end: "2026",
+      end: "Present",
     },
   ],
 
@@ -152,7 +152,7 @@ export const DATA = {
   },
   {
     title: "Geo-Tag Project",
-    href: "https://your-geo-tag-link.com",
+    // href: "https://your-geo-tag-link.com",
     dates: "June 2025",
     active: false,
     description:
@@ -170,7 +170,7 @@ export const DATA = {
   },
   {
     title: "Portfolio Website",
-    href: "https://your-portfolio-link.com",
+    // href: "https://your-portfolio-link.com",
     dates: "June 2025",
     active: true,
     description:
