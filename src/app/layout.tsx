@@ -31,8 +31,6 @@ export const metadata: Metadata = {
     images: [
       {
         url: "/og_main.png",
-        width: 1200,
-        height: 630,
         alt: `${DATA.name} Open Graph Image`,
       },
     ],
