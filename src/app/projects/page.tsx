@@ -39,13 +39,13 @@ export default function Projects() {
             delay={BLUR_FADE_DELAY * 4 + i * 0.05}
           >
             <ProjectCard
-              href={project.href}
+              // href={project.href}
               title={project.title}
               description={project.description}
               dates={project.dates}
               tags={project.technologies}
               image={project.image}
-              links={project.links}
+              // links={project.links}
             />
           </BlurFade>
         ))}

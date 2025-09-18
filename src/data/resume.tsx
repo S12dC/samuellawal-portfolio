@@ -98,7 +98,7 @@ export const DATA = {
   projects: [
   {
     title: "Automated Campus Lost & Found System",
-    href: "https://your-lostfound-link.com",
+    // href: "https://your-lostfound-link.com",
     dates: "March 2025 - Present",
     active: true,
     description:
@@ -107,7 +107,7 @@ export const DATA = {
     links: [
       {
         type: "Source",
-        href: "https://github.com/yourusername/lost-and-found",
+        // href: "https://github.com/yourusername/lost-and-found",
         icon: <Icons.github className="size-3" />,
       },
     ],
@@ -116,7 +116,7 @@ export const DATA = {
   },
   {
     title: "Veri-Fi Platform",
-    href: "https://your-verifi-link.com",
+    // href: "https://your-verifi-link.com",
     dates: "August 2025 - Present",
     active: true,
     description:
@@ -125,7 +125,7 @@ export const DATA = {
     links: [
       {
         type: "Source",
-        href: "https://github.com/yourusername/veri-fi",
+        // href: "https://github.com/yourusername/veri-fi",
         icon: <Icons.github className="size-3" />,
       },
     ],
@@ -134,7 +134,7 @@ export const DATA = {
   },
   {
     title: "Cava E-commerce Website",
-    href: "https://your-cava-link.com",
+    // href: "https://your-cava-link.com",
     dates: "July 2025",
     active: true,
     description:
@@ -143,7 +143,7 @@ export const DATA = {
     links: [
       {
         type: "Source",
-        href: "https://github.com/yourusername/gemini-clone",
+        // href: "https://github.com/yourusername/gemini-clone",
         icon: <Icons.github className="size-3" />,
       },
     ],
@@ -161,7 +161,7 @@ export const DATA = {
     links: [
       {
         type: "Source",
-        href: "https://github.com/yourusername/geo-tag",
+        // href: "https://github.com/yourusername/geo-tag",
         icon: <Icons.github className="size-3" />,
       },
     ],
@@ -179,12 +179,12 @@ export const DATA = {
     links: [
       {
         type: "Website",
-        href: "https://your-portfolio-link.com",
+        // href: "https://your-portfolio-link.com",
         icon: <Icons.globe className="size-3" />,
       },
       {
         type: "Source",
-        href: "https://github.com/yourusername/portfolio",
+        // href: "https://github.com/yourusername/portfolio",
         icon: <Icons.github className="size-3" />,
       },
     ],
