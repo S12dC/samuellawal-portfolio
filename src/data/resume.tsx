@@ -81,9 +81,10 @@ export const DATA = {
       start: "May 2025",
       end: "Oct 2025",
       description:
-        "Developed and maintained responsive web interfaces using React, HTML, CSS, and JavaScript. Integrated APIs for dynamic data fetching and visualization. Implemented interactive charts (bar and donut) for analytics dashboards. Collaborated with the backend team to connect frontend components with RESTful services. Optimized UI components for performance, accessibility, and cross-browser compatibility.",
+        "Developed and maintained responsive web interfaces using React, Next.js, TailWindCSS, MySql, HTML, CSS, and JavaScript. Integrated APIs for dynamic data fetching and visualization. Implemented interactive charts (bar and donut) for analytics dashboards. Collaborated with the backend team to connect frontend components with RESTful services. Optimized UI components for performance, accessibility, and cross-browser compatibility.",
     }
   ],
+
   education: [
     {
       school: "Lagos State University (LASU)",
@@ -103,7 +104,7 @@ export const DATA = {
     active: true,
     description:
       "Developing a full-stack system to manage lost and found items on campus. Features include item reporting, claim verification, and admin dashboards. Designed to streamline campus operations and reduce unclaimed items.",
-    technologies: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+    technologies: ["React","HTML", "CSS", "JavaScript", "MySQL"],
     links: [
       {
         type: "Source",
@@ -121,7 +122,7 @@ export const DATA = {
     active: true,
     description:
       "Building a web platform for verifying documents and identities. Includes secure authentication, real-time validation, and a modern responsive dashboard UI.",
-    technologies: ["React", "TailwindCSS", "JavaScript", "Node.js", "MySQL"],
+    technologies: ["React", "Html", "CSS", "JavaScript", "MySQL"],
     links: [
       {
         type: "Source",
@@ -175,7 +176,7 @@ export const DATA = {
     active: true,
     description:
       "Designed and developed a personal portfolio website to showcase projects, skills, and work experience. Focused on responsive layouts and smooth UI interactions.",
-    technologies: ["Next.js", "React", "TailwindCSS", "shadcn/ui", "Framer Motion"],
+    technologies: ["Next.js", "React", "TypeScript", "TailwindCSS", "shadcn/ui", "Framer Motion"],
     links: [
       {
         type: "Website",
