@@ -48,7 +48,8 @@ export function ProjectCard({
     >
       <Link
         href={href || "#"}
-        className={cn("block cursor-pointer", className)}
+        className={cn("block pointer-events-none", className)}
+        tabIndex={-1}
       >
         {video && (
           <video
