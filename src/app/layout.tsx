@@ -21,6 +21,9 @@ export const metadata: Metadata = {
     template: `%s | ${DATA.name}`,
   },
   description: DATA.description,
+  icons: {
+    icon: '/public/spider-4-svgrepo-com.svg',
+  },
   openGraph: {
     title: `${DATA.name}`,
     description: DATA.description,
