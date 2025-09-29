@@ -152,6 +152,23 @@ export const DATA = {
     // video: "/cava-demo.mp4",
   },
   {
+    title: "Real Estate Project",
+    // href: "https://your-real-estate-link.com",
+    dates: "June 2025",
+    active: false,
+    description:
+      "Developed a responsive real estate website showcasing property listings with images, pricing, and details. Implemented interactive features using JavaScript, including property search, filters, and image sliders. Designed with a clean, modern UI for seamless browsing across devices.",
+    technologies: ["JavaScript", "HTML", "CSS"],
+    links: [
+      {
+        type: "Source",
+        // href: "https://github.com/yourusername/real-estate",
+        icon: <Icons.github className="size-3" />,
+      },
+    ],
+    image: "/Real-estate.png",
+  },
+  {
     title: "Geo-Tag Project",
     // href: "https://your-geo-tag-link.com",
     dates: "June 2025",
