@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   },
   description: DATA.description,
   icons: {
-    icon: '/public/spider-4-svgrepo-com.svg',
+    icon: '/spider-4-svgrepo-com.svg',
   },
   openGraph: {
     title: `${DATA.name}`,
